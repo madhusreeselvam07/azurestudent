@@ -1,0 +1,38 @@
+body{
+    margin:0;
+    font-family:Arial;
+    background:#f2f2f2;
+}
+
+.navbar{
+    background:red;
+    color:white;
+    padding:20px;
+    display:flex;
+    justify-content:space-between;
+}
+
+input{
+    padding:8px;
+    width:250px;
+}
+
+.videos{
+    display:flex;
+    gap:20px;
+    padding:20px;
+    flex-wrap:wrap;
+}
+
+.card{
+    background:white;
+    width:300px;
+    padding:10px;
+    border-radius:10px;
+}
+
+.card img{
+    width:100%;
+    height:180px;
+    border-radius:10px;
+}
