@@ -40,4 +40,4 @@ MyTube/
 * Search functionality
 * Dark mode
 * Sidebar navigation
-* 
+  
